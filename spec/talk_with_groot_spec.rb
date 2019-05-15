@@ -12,4 +12,9 @@ RSpec.describe 'Hi groot' do
     expect(asnwer).to eq("I am Groot!")
   end
 
+  it 'return ~Je suis Groot!~ when call the function'  do
+    asnwer = TalkWithGroot.fr
+    expect(asnwer).to eq("Je suis Groot!")
+  end
+
 end

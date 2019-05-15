@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.name        = 'talk_with_groot'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2019-05-14'
   s.summary     = 'He is groot, everyone say hi!.'
-  s.description = 'If you have any problems, it is always recommended that you talk to someone, but I recommend talking to the groot.'
+  s.description = 'If you have any problems, it is always recommended that you talk to someone, but I recommend talking to the Groot.'
   s.author      = 'Paulo Tijero'
   s.email       = 'paulotijero@gmail.com'
   s.files       = ['lib/talk_with_groot.rb']

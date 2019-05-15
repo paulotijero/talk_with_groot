@@ -8,4 +8,8 @@ class TalkWithGroot
     return "I am Groot!"
   end
 
+  def self.fr 
+    return "Je suis Groot!"
+  end
+
 end

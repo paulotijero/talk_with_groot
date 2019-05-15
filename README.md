@@ -33,6 +33,7 @@ Now we have these languages:
 | :--: | :------: |
 |  es  | Spanish  |
 |  en  | English  |
+|  fr  |  French  |
 
 ## Contributing
 

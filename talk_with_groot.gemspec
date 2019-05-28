@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'talk_with_groot'
-  s.version     = '0.0.2'
+  s.version     = '1.0.0'
   s.date        = '2019-05-14'
   s.summary     = 'He is groot, everyone say hi!.'
   s.description = 'If you have any problems, it is always recommended that you talk to someone, but I recommend talking to the Groot.'
@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email       = 'paulotijero@gmail.com'
   s.files       = ['lib/talk_with_groot.rb']
   s.add_development_dependency 'rspec', '~> 3.7'
-  s.metadata    = { "source_code_uri" => "https://github.com/paulotijero/talk-with-groot" }
+  s.metadata    = { "source_code_uri" => "https://github.com/paulotijero/talk_with_groot" }
   s.homepage    = 'http://rubygems.org/gems/talk_with_groot'
   s.license     = 'MIT'
 end

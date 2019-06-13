@@ -24,4 +24,8 @@ class TalkWithGroot
     return "我是Groot !"
   end
 
+  def self.kr
+    return "나는 Groot이다!"
+  end
+
 end

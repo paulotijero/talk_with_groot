@@ -37,6 +37,7 @@ Now we have these languages:
 |  de  |  German  |
 |  it  | Italian  |
 |  ch  | Chinese  |
+|  kr  |  Korean  |
 
 ## Contributing
 

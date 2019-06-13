@@ -35,6 +35,7 @@ Now we have these languages:
 |  en  | English  |
 |  fr  |  French  |
 |  de  |  German  |
+|  it  | Italian  |
 
 ## Contributing
 

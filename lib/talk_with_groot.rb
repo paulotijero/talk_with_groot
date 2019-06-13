@@ -16,4 +16,8 @@ class TalkWithGroot
     return "Ich bin Groot!"
   end
 
+  def self.it
+    return "Io sono Groot!"
+  end
+
 end

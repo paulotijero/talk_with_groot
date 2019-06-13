@@ -36,6 +36,7 @@ Now we have these languages:
 |  fr  |  French  |
 |  de  |  German  |
 |  it  | Italian  |
+|  ch  | Chinese  |
 
 ## Contributing
 

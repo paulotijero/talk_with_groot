@@ -20,4 +20,8 @@ class TalkWithGroot
     return "Io sono Groot!"
   end
 
+  def self.ch
+    return "我是Groot !"
+  end
+
 end

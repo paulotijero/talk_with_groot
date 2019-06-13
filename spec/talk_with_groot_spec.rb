@@ -27,4 +27,9 @@ RSpec.describe 'Hi groot' do
     expect(answer).to eq("Io sono Groot!")
   end
 
+  it 'return ~我是Groot !~ when calling the function' do
+    answer = TalkWithGroot.ch
+    expect(answer).to eq("我是Groot !")
+  end
+
 end

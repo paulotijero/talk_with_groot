@@ -34,6 +34,7 @@ Now we have these languages:
 |  es  | Spanish  |
 |  en  | English  |
 |  fr  |  French  |
+|  de  |  German  |
 
 ## Contributing
 

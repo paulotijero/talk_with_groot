@@ -34,6 +34,10 @@ Now we have these languages:
 |  es  | Spanish  |
 |  en  | English  |
 |  fr  |  French  |
+|  de  |  German  |
+|  it  | Italian  |
+|  ch  | Chinese  |
+|  kr  |  Korean  |
 
 ## Contributing
 
